@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Archives (optional - remove if you want to track these)
+*.zip
+
+# IDE
+.vscode/
+.idea/
